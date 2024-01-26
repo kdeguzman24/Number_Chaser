@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NUMBER</string>
+    <string name="app_name2">CHASER</string>
+    <string name="instruction">INSTRUCTIONS</string>
+    <string name="add">ADD OR SUBTRACT?</string>
+    <string name="round">DIFFICULTY</string>
+    <string name="easy">EASY ROUND</string>
+    <string name="normal">NORMAL ROUND</string>
+    <string name="hard">HARD ROUND</string>
+</resources>
